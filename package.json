@@ -11,6 +11,10 @@
 	},
 	"keywords": ["gsap", "gsap-unlocker"],
 	"author": "ItsPi3141",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/ItsPi3141/gsap-unlocker"
+	},
 	"license": "MIT",
 	"devDependencies": {
 		"tsup": "^8.3.0",
