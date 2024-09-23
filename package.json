@@ -1,0 +1,19 @@
+{
+	"name": "gsap-unlocker",
+	"version": "1.0.0",
+	"description": "Use GSAP club plugins anywhere",
+	"main": "src/index.ts",
+	"module": "dist/index.mjs",
+	"types": "dist/index.d.mts",
+	"files": ["dist"],
+	"scripts": {
+		"build": "tsup"
+	},
+	"keywords": ["gsap", "gsap-unlocker"],
+	"author": "ItsPi3141",
+	"license": "MIT",
+	"devDependencies": {
+		"tsup": "^8.3.0",
+		"typescript": "^5.6.2"
+	}
+}
