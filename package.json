@@ -1,6 +1,6 @@
 {
 	"name": "gsap-unlocker",
-	"version": "1.0.0",
+	"version": "1.0.0-1",
 	"description": "Use GSAP club plugins anywhere",
 	"main": "src/index.ts",
 	"module": "dist/index.mjs",
